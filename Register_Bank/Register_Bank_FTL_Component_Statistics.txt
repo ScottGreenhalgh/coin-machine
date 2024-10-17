@@ -1,0 +1,24 @@
+---------------------------------------------------------------------------
+Start RTL Component Statistics 
+---------------------------------------------------------------------------
+Detailed RTL Component Info : 
++---Registers : 
+                    8 Bit    Registers := 1     
++---Muxes : 
+       2 Input      8 Bit        Muxes := 1     
+---------------------------------------------------------------------------
+Finished RTL Component Statistics 
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+Start RTL Hierarchical Component Statistics 
+---------------------------------------------------------------------------
+Hierarchical RTL Component report 
+Module register_bank 
+Detailed RTL Component Info : 
++---Registers : 
+                    8 Bit    Registers := 1     
++---Muxes : 
+       2 Input      8 Bit        Muxes := 1     
+---------------------------------------------------------------------------
+Finished RTL Hierarchical Component Statistics
+---------------------------------------------------------------------------

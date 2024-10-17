@@ -1,0 +1,24 @@
+---------------------------------------------------------------------------
+Start RTL Component Statistics 
+---------------------------------------------------------------------------
+Detailed RTL Component Info : 
++---Muxes : 
+      21 Input      3 Bit        Muxes := 1     
+       2 Input      1 Bit        Muxes := 2     
+       5 Input      1 Bit        Muxes := 1     
+---------------------------------------------------------------------------
+Finished RTL Component Statistics 
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+Start RTL Hierarchical Component Statistics 
+---------------------------------------------------------------------------
+Hierarchical RTL Component report 
+Module vending 
+Detailed RTL Component Info : 
++---Muxes : 
+      21 Input      3 Bit        Muxes := 1     
+       2 Input      1 Bit        Muxes := 2     
+       5 Input      1 Bit        Muxes := 1     
+---------------------------------------------------------------------------
+Finished RTL Hierarchical Component Statistics
+---------------------------------------------------------------------------
